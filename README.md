@@ -1,1 +1,2 @@
-Proyecto de práctica Git y github
+Cambio realizado en la rama feature-info
+
